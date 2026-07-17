@@ -1,3 +1,4 @@
+#Store contacts in a dictionary
 contacts={}
 
 # adding contacts
